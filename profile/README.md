@@ -1,1 +1,1 @@
-![Logo](../blaize.png)
+![Logo](blaize.png)
